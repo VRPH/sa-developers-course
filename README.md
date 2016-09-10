@@ -4,10 +4,17 @@
 This is the first version of an experimental course on VR development. 
 
 ## Getting Help
+The VRPH: SA developers group meets on Mondays and/or Saturdays on Facebook. If you have any questions, feel free to ask it on our group chat.
 
 ## Getting Started
 
-* Unity3D + Blender
+Step 1: Install Unity3D and Blender
+
+Step 2: Install Skype and/or Facebook Messenger
+
+Step 3: ???
+
+Step 4: PROFIT!
 
 ## Course Outline
 We shall cover roughly one or two of these a week depending on our [calendar](https://calendar.google.com/calendar/embed?src=vrphilippines@gmail.com&ctz=Asia/Manila).
