@@ -39,7 +39,7 @@ Namespaces are one honking great idea -- let's do more of those!
 ```
 
 ## Getting Help
-The VRPH: SA developers group meets on Mondays and/or Saturdays on Facebook. If you have any questions, feel free to ask it in our group chat.
+The VRPH: SA developers group meets on Mondays and/or Saturdays on Facebook. If you have any questions, feel free to ask it on our group chat.
 
 ## Getting Started
 
@@ -87,6 +87,8 @@ We shall cover roughly one or two of these a week depending on our [calendar](ht
 15) How I learned to stop worrying and love UNET
 
 16) Design challenge # 06
+
+Post-16) Hardware + Unity3D? More 3D modelling? We'll talk about this later.
 
 ## References
 
