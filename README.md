@@ -1,7 +1,42 @@
 # VRPH: SA Developers Course
 
 ## Introduction
-This is the first version of an experimental course on VR development. 
+This is the first version of an experimental course on VR development. Basically, we want to go from this:
+
+![Meme](http://s2.quickmeme.com/img/af/af83635580510dd86fb3cff88ee083eda660ebad357f9cf2fdc4ac06c2e60ee3.jpg)
+
+to this:
+
+![Edward](https://media.giphy.com/media/5iw1uEuhN0PnO/giphy.gif)
+
+in a span of n weeks. In general, we will try to keep a breakneck pace (since everyone seems to be up to the challenge) and give ourselves lots and lots of things to think about. In particular, the course is based on the following principles:
+
+* Questions >> answers
+* Challenges should approach the ideal of the kōan and provoke "great doubt".
+
+It might help to quote The Zen of Python here:
+
+```
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+```
 
 ## Getting Help
 The VRPH: SA developers group meets on Mondays and/or Saturdays on Facebook. If you have any questions, feel free to ask it on our group chat.
