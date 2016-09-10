@@ -13,6 +13,7 @@ in a span of n weeks. In general, we will try to keep a breakneck pace (since ev
 
 * Questions >> answers
 * Challenges should approach the ideal of the kōan and provoke "great doubt".
+* But not great enough to require doubting for over an hour -- we're still students after all!
 
 It might help to quote The Zen of Python here:
 
