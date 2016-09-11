@@ -102,3 +102,7 @@ Post-16) Hardware + Unity3D? More 3D modelling? We'll talk about this later.
 * [A Brief Rant on the Future of Interaction Design](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
 * Two articles on rapid prototyping: [1](http://www.gamasutra.com/view/feature/130848/how_to_prototype_a_game_in_under_7_.php?print=1) and [2](http://devmag.org.za/2014/01/08/rapid-game-prototyping-tips-for-programmers/)
 * GTGD's [UNET Tutorial series](https://www.youtube.com/playlist?list=PLwyZdDTyvucyAeJ_rbu_fbiUtGOVY55BG)
+
+## Readings used in the course
+* [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
+* [Beating the Averages](http://www.paulgraham.com/avg.html)
